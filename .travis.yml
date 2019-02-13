@@ -1,0 +1,8 @@
+language: java
+jdk: oraclejdk8
+
+script:
+  cd producer
+- ./gradlew build --scan -s
+  cd ../consumer
+  ./gradlew build --scan -s
