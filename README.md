@@ -3,6 +3,7 @@
 ## Producer
 
 [![Build Status](https://travis-ci.com/CafeComJavaNaResource/messaging-jms-producer.svg?branch=master)](https://travis-ci.com/CafeComJavaNaResource/messaging-jms-producer)
+[![Coverage Status](https://coveralls.io/repos/github/CafeComJavaNaResource/messaging-jms-producer/badge.svg?branch=master)](https://coveralls.io/github/CafeComJavaNaResource/messaging-jms-producer?branch=master)
 
 Este projeto foi desenvolvido para o encontro Café com Java realizado na Resource IT.
 
